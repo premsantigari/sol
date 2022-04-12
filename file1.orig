@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+class hello  #dev1
+{
+    public void main(); #dev1			
+=======
+class hello #dev2
+{
+    public void main();	#dev2		
+>>>>>>> 0c55ecba6592e769a02606deb53bc126be4cadfa
+    {
+       println("hello");
+       }
+}#dev2
